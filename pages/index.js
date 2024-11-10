@@ -17,7 +17,7 @@ export default function Home() {
       </h1>
 
       <Counter name={"Counter +1"} mult={1} size={2}/>
-      <Counter name={"Counter +3"} mult={3} size={1}/>
+      <Counter name={"Counter +2"} mult={2} size={1}/>
 
       <hr
         style={{
